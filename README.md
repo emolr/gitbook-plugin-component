@@ -12,7 +12,7 @@ To use the component plugin in your Gitbook project, add the component plugin to
 }
 ```
 
-## component format
+## Component format
 
 A component consists of a single block, in this example it's demonstrating the use of a web component, but it could be anything.
 

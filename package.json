@@ -1,12 +1,9 @@
 {
     "name": "gitbook-plugin-component",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A block to define an UI component demo in an iframe together with a syntax highlighted html code block.",
     "engines": {
         "gitbook": ">1.x.x"
-    },
-    "gitbook": {
-        "properties": {}
     },
     "dependencies": {
         "highlight.js": "^9.12.0"
