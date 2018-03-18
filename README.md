@@ -25,5 +25,5 @@ A component consists of a single block, in this example it's demonstrating the u
 
 If you are writing ui documentation using gitbook, you might like some of my other plugins:
 
-* [gitbook-plugin-jsdoc]() - Inject jsdoc directly into a page from a source js file.
-* [gitbook-plugin-watch]() - Set up file-watching for assets used in your gitbook.
+* [gitbook-plugin-jsdoc](https://plugins.gitbook.com/plugin/jsdoc) - Inject jsdoc directly into a page from a source js file.
+* [gitbook-plugin-watch](https://plugins.gitbook.com/plugin/watch) - Set up file-watching for assets used in your gitbook.
